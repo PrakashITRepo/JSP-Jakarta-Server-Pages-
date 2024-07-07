@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="JSP_Directives" />
+        <module name="JSP_ExpressionLanguage" />
+        <module name="EmployeeRegistrationUsingMySQL_JDBC_JSP" />
+        <module name="IncludeTagDirective" />
+        <module name="JSTL_CORE" />
+        <module name="JSP_Include_Action_Tag" />
+        <module name="MVC_JSP_SERVLET_JDBC_MySQL" />
+        <module name="JSP_Basics" />
+        <module name="WhyJSP" />
+        <module name="JSP_Forward_Action_Tag" />
+        <module name="JSTL_FUNCTION" />
+        <module name="JSP_Beans_Action_Tag" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Directives" target="17" />
+      <module name="jstl_TEST" target="1.7" />
+      <module name="JSTL_TEST" target="17" />
+      <module name="MVC_SERVLET_JSP_JDBC_MySQL" target="1.5" />
+      <module name="PageDirectives_import_language" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

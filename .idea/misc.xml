@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/JSP_Basics/pom.xml" />
+        <option value="$PROJECT_DIR$/Directives_import/pom.xml" />
+        <option value="$PROJECT_DIR$/JSP_Directives/pom.xml" />
+        <option value="$PROJECT_DIR$/IncludeTagDirective/pom.xml" />
+        <option value="$PROJECT_DIR$/JSP_Forward_Action_Tag/pom.xml" />
+        <option value="$PROJECT_DIR$/JSP_Include_Action_Tag/pom.xml" />
+        <option value="$PROJECT_DIR$/JSP_Beans_Action_Tag/pom.xml" />
+        <option value="$PROJECT_DIR$/JSP_ExpressionLanguage/pom.xml" />
+        <option value="$PROJECT_DIR$/MVC_JSP_SERVLET_JDBC_MySQL/pom.xml" />
+        <option value="$PROJECT_DIR$/JSTL_CORE/pom.xml" />
+        <option value="$PROJECT_DIR$/JSTL_FUNCTION/pom.xml" />
+        <option value="$PROJECT_DIR$/WhyJSP/pom.xml" />
+        <option value="$PROJECT_DIR$/EmployeeRegistrationUsingMySQL_JDBC_JSP/pom.xml" />
+      </list>
+    </option>
+    <option name="workspaceImportForciblyTurnedOn" value="true" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>

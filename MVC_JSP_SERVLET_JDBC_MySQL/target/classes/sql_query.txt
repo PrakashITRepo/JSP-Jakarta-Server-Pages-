@@ -1,0 +1,8 @@
+CREATE TABLE `jsp_db`.`student` (
+  `id` INT NOT NULL AUTO_INCREMENT,
+  `firstName` VARCHAR(45) NOT NULL,
+  `lastName` VARCHAR(45) NULL,
+  `section` VARCHAR(45) NULL,
+  `address` VARCHAR(45) NULL,
+  `stream` VARCHAR(45) NULL,
+  PRIMARY KEY (`id`));

@@ -1,0 +1,20 @@
+<web-app xmlns="https://jakarta.ee/xml/ns/jakartaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee
+                      https://jakarta.ee/xml/ns/jakartaee/web-app_6_0.xsd"
+         version="6.0">
+  <servlet>
+    <servlet-name>configServlet</servlet-name>
+    <jsp-file>/initParam.jsp</jsp-file>
+    <init-param>
+      <param-name>pass</param-name>
+      <param-value>Oracle</param-value>
+    </init-param>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>configServlet</servlet-name>
+    <url-pattern>/initParam.jsp</url-pattern>
+  </servlet-mapping>
+  <display-name>Archetype Created Web Application</display-name>
+</web-app>

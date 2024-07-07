@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Directives/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Directives/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EmployeeRegistrationUsingMySQL_JDBC_JSP/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EmployeeRegistrationUsingMySQL_JDBC_JSP/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/IncludeTagDirective/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/IncludeTagDirective/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JSP_Basics/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JSP_Basics/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JSP_Beans_Action_Tag/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JSP_Beans_Action_Tag/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JSP_Directives/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JSP_Directives/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JSP_ExpressionLanguage/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JSP_ExpressionLanguage/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JSP_Forward_Action_Tag/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JSP_Forward_Action_Tag/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JSP_Include_Action_Tag/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JSP_Include_Action_Tag/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JSTL_CORE/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JSTL_CORE/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JSTL_FUNCTION/jstl_TEST/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JSTL_FUNCTION/jstl_TEST/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JSTL_FUNCTION/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JSTL_FUNCTION/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JSTL_TEST/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JSTL_TEST/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MVC_JSP_SERVLET_JDBC_MySQL/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MVC_JSP_SERVLET_JDBC_MySQL/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MVC_SERVLET_JSP_JDBC_MySQL/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MVC_SERVLET_JSP_JDBC_MySQL/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PageDirectives_import_language/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PageDirectives_import_language/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WhyJSP/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WhyJSP/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
